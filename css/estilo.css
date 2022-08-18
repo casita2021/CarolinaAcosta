@@ -1,0 +1,42 @@
+
+
+body{
+    background-color: rgb(243, 233, 243);
+}
+
+/*estilo de del menu*/
+.bg-menu{
+    background-color:blueviolet ;
+    height: 5rem;
+    margin: 0;
+}
+/*Logo*/
+h1:hover{
+    color:rgb(125, 215, 245); /*esto hace que al pasar
+    el raton cambie de color los link*/  
+    cursor: pointer;
+}
+
+/*estilos del main*/
+.bg-main{
+    text-align: center;
+    background-color: rgb(243, 233, 243) ;
+    display: flex;
+    margin: 3rem;  
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+ 
+footer{
+    background-color: blueviolet;
+    height: 4rem;
+    text-align: center;
+}
+
+
+
+
